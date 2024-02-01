@@ -6,9 +6,17 @@ _Tomas Suarez_
 ## **Edad** 
 
 21 años
-## Telefono 
+## Telefonos
 
-3182351742   
+
+* 3182331743
+* 3138214322
+
+## Gustos
+
+
+1. Autos
+2. Sistemas
 
 
 **Ingenieria de Sistemas**
