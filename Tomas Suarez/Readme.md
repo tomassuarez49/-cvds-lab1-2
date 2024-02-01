@@ -13,12 +13,13 @@ _Tomas Suarez_
 
 **Ingenieria de Sistemas**
 
+## Hello, World! en Python
 
-class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!"); 
-    }
-}
+### Python
+
+```python
+print("Hello, World!")
+
 
 https://www.escuelaing.edu.co/es/
 
