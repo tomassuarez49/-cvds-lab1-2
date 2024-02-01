@@ -24,7 +24,6 @@ _Tomas Suarez_
 ## Hello, World! en Python
 
 ### Python
-
 ```python
 print("Hello, World!")
 
