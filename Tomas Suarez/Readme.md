@@ -36,6 +36,6 @@ https://www.escuelaing.edu.co/es/
 
 ![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
-https://raw.githubusercontent.com/tomassuarez49/-cvds-lab1-2/main/Tomas%20Suarez/image.png
+![](https://raw.githubusercontent.com/tomassuarez49/-cvds-lab1-2/main/Tomas%20Suarez/image.png)
 
 
