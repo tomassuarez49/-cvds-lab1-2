@@ -37,7 +37,7 @@ _Comida favorita:_
 _Animal Favorito: Caballos_ 
 
 
-_Codigo:_
+# _Codigo:_
 
 ```python
 def hola_mundo():
@@ -45,7 +45,7 @@ print("¡Hola, mundo!")
 
 hola_mundo()
 ```
-_Imagenes Trabajo en clase:_ 
+# _Imagenes Trabajo en clase:_ 
 
 ![Captura de pantalla 2024-02-02 144045](https://github.com/tomassuarez49/-cvds-lab1-2/assets/157759002/8fb40654-7835-4da3-8400-97f0a5670f2c)
 ![![Captura de pantalla 2024-02-02 144729](https://github.com/tomassuarez49/-cvds-lab1-2/assets/157759002/ef0fcf07-8f52-489b-a74c-d09643fd8195)
