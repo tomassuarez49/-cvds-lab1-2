@@ -40,3 +40,6 @@ public class HolaMundo {
 
 
 ![image](https://github.com/tomassuarez49/-cvds-lab1-2/assets/143991834/66d6d2ba-d8e2-4071-a7d9-38c65f1e8825)
+
+![image](https://github.com/tomassuarez49/-cvds-lab1-2/assets/143991834/a4d6a7ee-dd41-4058-8268-1cd342e31187)
+
