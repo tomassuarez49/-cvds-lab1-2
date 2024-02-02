@@ -37,3 +37,6 @@ public class HolaMundo {
 <img width="820" alt="image" src="https://github.com/tomassuarez49/-cvds-lab1-2/assets/143991834/7d14d8e2-c976-4d02-8d04-723795266918">
 
 <img width="931" alt="image" src="https://github.com/tomassuarez49/-cvds-lab1-2/assets/143991834/07f1c4ba-6a1d-4594-9d29-80da81fe777b">
+
+
+![image](https://github.com/tomassuarez49/-cvds-lab1-2/assets/143991834/66d6d2ba-d8e2-4071-a7d9-38c65f1e8825)
