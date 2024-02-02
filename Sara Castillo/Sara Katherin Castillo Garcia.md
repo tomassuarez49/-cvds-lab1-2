@@ -30,6 +30,8 @@ _Comida favorita:_
 
 * Dulces
 
+_Animal Favorito: Caballos_ 
+
 _Codigo:_
 
 ```python
@@ -37,3 +39,9 @@ def hola_mundo():
 print("¡Hola, mundo!")
 
 hola_mundo()
+```
+_Imagenes Trabajo en clase:_ 
+
+
+
+
